@@ -26,6 +26,7 @@
     height: 400px;
     width: 180px;
     border-radius: 22px;
+    background-size: cover;
     background-image: linear-gradient(red, blue);
 }
 
